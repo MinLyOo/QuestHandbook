@@ -1,0 +1,24 @@
+# 构建产物
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userprefs
+
+# 编译产物
+/release/
+/QuestHandbook-manual-install.zip
+
+# 手册 UI 探针导出的界面树 dump
+**/ProbeDump/
+*.log
+
+# 编辑器
+.vs/
+.vscode/
+.idea/
+*.swp
+
+Thumbs.db
+Desktop.ini
+.DS_Store
