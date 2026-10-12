@@ -63,4 +63,4 @@
 
 ## 许可证
 
-[GNU GPLv3](LICENSE)
+[MIT](https://github.com/MinLyOo/QuestHandbook/blob/main/LICENSE)

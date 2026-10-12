@@ -12,7 +12,7 @@
     <Version>$(AssemblyVersion)</Version>
     <FileVersion>$(AssemblyVersion)</FileVersion>
     <Copyright>Copyright © 2026 $(Authors)</Copyright>
-    <SptDir>F:\EFT v4.1</SptDir>
+    <SptDir>F:\EFT</SptDir>
   </PropertyGroup>
 
   <!-- Deploy to release folder only - NEVER to the game directory -->
